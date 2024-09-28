@@ -37,6 +37,3 @@ This Streamlit-based application enables users to upload log files and engage in
 - Upload a log file and interact with it using conversational queries.
 - The app will analyze and retrieve relevant parts of the logs to answer your questions.
 
----
-
-Feel free to adjust the links, API key instructions, or any other details specific to your app!
